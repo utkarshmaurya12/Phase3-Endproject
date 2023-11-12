@@ -1,0 +1,8 @@
+<suite name="suite001">
+<test name="test001">
+
+<classes>
+<class name="courseEndProject.Assignment001Demo"></class>
+</classes>
+</test>
+</suite>
